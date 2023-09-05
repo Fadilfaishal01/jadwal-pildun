@@ -1,5 +1,6 @@
 import "./globals.css";
 import Head from "./head";
+import "moment/locale/id";
 
 export default function RootLayout({
   children,
